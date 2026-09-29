@@ -1,0 +1,12 @@
+header{
+    background: linear-gradient(135deg, #212529, #343a40);
+}
+
+.foto-perfil{
+    width: 150px;
+    height: 150px;
+
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid white;
+}
